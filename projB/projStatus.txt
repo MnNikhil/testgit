@@ -1,0 +1,75 @@
+International Journal of Emerging Technology and Advanced Engineering
+Website: www.ijetae.com 
+(
+ISSN 2250
+-
+2459, ISO 9001:2008 Certified Journal, Volume 3, Issue 8, August 2013
+)
+191
+Artificial Neural Network Based Signature Recognition & 
+Verification
+Shiwani Sthapak
+1
+, Minal Khopade
+2
+, Chetana Kashid
+3
+1,2,3
+IT 
+Department, DPCOE, Wagholi, Pune University, Maharashtra, India 
+Abstract 
+-
+The 
+human  signature  is  proven  to  be  the  most 
+important for access. Signature of the person is proven to be 
+the  important  biometric  attribute  of  a  human  being  which 
+can  be  used  to  authenticate  human  identity  [1].  There  are 
+many biometric  characteristics by whic
+h  one  can  have own 
+identity   like   face   recognition,   fingerprint   detection,   iris 
+inspection  and  retina  scanning  [2].  Voice  reorganization 
+and signature verification are the upcoming technologies for 
+the human identity.
+Human  signature  can  be  handling  as  the 
+image  and  can 
+be  recognized  by  using  the  computer  vision  and  neural 
+network.  With  the  help  of  the  modern  technology  there  is 
+possibility to develop such algorithm with help of which one 
+can  able  to  recognize  and  verify  the  human  signature.  This 
+paper   deals
+with   the   off
+-
+line   signature   recognition   & 
+verification   using   neural   network   in   which   the   human 
+signature  is  captured  and  presented  in  the  image  format  to 
+the system. Various image processing techniques are used to 
+recognize and verify the signature. 
+Keyw
+ords 
+-
+Security,  Image  Processing,  Neural  Network, 
+Offline signature Recognition & Verification
+I.
+I
+NTRODUCTION
+Signature   is   socially   accepted   &   extensively   used 
+means   for   authentication   in   our   daily   life.   Manual 
+signature is very basic method for person for 
+recognition 
+of  the  signer  of  the  document  with  the  assumption  that 
+signature changes slowly & virtually impossible  to forge 
+without  detection
+[1]
+. 
+A  signature  may  articulate  as  a 
+behavioral  biometric.  It  is  widely  used  to  recognize  a 
+person    delivering    out 
+daily    procedures    i.e.    bank 
+operations,  document  analysis,  electronic  funds  transfer, 
+and  access  control,  by  using  his  manual  signature
+[1]
+. 
+This system has two distinct but strongly related tasks as 
+recognition  of  the  signature  &  verifying  it  whether  it  is
+genuine or forged
+[1]

@@ -1,0 +1,10 @@
+How to operate Bluetooth module?
+
+You can directly use the Bluetooth module after purchasing from market, because there is no need to change any setting of Bluetooth module. Default baud rate of new Bluetooth module is 9600 bps. You just need to connect rx and tx to controller or serial converter and give 5 volt dc regulated power supply to module.
+
+ 
+
+Bluetooth module has two modes one is master mode and second one is slave mode. User can set either mode by using some AT commands. Even user can set module’s setting by using AT command. Here is some commands uses are given:
+
+First of all user need to enter AT mode with 38400 bps baud rate by pressing EN button at Bluetooth module or by giving HIGH level at EN pin. Note: all commands should ends with \r\n (0x0d and 0x0a) or ENTER KEY from keyboard.
+

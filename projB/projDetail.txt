@@ -1,0 +1,29 @@
+Artificial Neural Network Based Verification of Digital Signature
+
+Abstract 
+-
+The 
+human  signature  is  proven  to  be  the  most 
+important for access. Signature of the person is proven to be 
+the  important  biometric  attribute  of  a  human  being  which 
+can  be  used  to  authenticate  human  identity  [1].  There  are 
+many biometric  characteristics by whic
+h  one  can  have own 
+identity   like   face   recognition,   fingerprint   detection,   iris 
+inspection  and  retina  scanning  [2].  Voice  reorganization 
+and signature verification are the upcoming technologies for 
+the human identity.
+Human  signature  can  be  handling  as  the 
+image  and  can 
+be  recognized  by  using  the  computer  vision  and  neural 
+network.  With  the  help  of  the  modern  technology  there  is 
+possibility to develop such algorithm with help of which one 
+can  able  to  recognize  and  verify  the  human  signature.  This 
+paper   deals
+with   the   off
+-
+line   signature   recognition   & 
+verification   using   neural   network   in   which   the   human 
+signature  is  captured  and  presented  in  the  image  format  to 
+the system. Various image processing techniques are used to 
+recognize and verify the signature. 
