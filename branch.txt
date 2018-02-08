@@ -1,0 +1,7 @@
+Image result for computer science projects
+Computer Science Project Ideas
+
+    Storage Systems Based HBA Distributed Meta Data Management for large Cluster.
+    Image Analysis and Compression with PSNR and MSE Technique.
+    Implementation of Threshold Cryptography for MANET Based on Elliptic Curve Cryptography.
+    Image Processing for Resizing and Bilinear Filters.
